@@ -15,7 +15,7 @@ Hi my name is Reza Taghizadeh and . . .
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=l_SRT_l)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
