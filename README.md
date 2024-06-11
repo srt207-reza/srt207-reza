@@ -21,4 +21,9 @@ Hi my name is Reza Taghizadeh and . . .
 ---
 [![](https://visitcount.itsvg.in/api?id=srt207-reza&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+```
+console.log()
+```
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
