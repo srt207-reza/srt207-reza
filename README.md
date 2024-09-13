@@ -24,11 +24,3 @@ Hi my name is Reza Taghizadeh and . . .
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-```
-<p>لورم اييسوم متن ساختگى با توليد <strong>سادگى</strong> نامفهوم از
-            صنعت چاب و با استفاده از طراحان اييسوم <strong>گرافيك</strong> است
-            چاپگرها و متون بلكه روزنامه و مجله در <strong>ستون</strong> و
-            سطرآنچنان كه
-        </p>
-```
-
